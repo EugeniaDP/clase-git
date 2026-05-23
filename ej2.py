@@ -3,5 +3,5 @@
 numero = int(input("Ingrese un número entero: "))
 
 for i in range(numero):
-    if i % 2 == 0:
+    if i % 3 == 0:
         print(i)
